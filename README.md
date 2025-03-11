@@ -43,9 +43,10 @@
 </div>
 
 ### 📊 GitHub Stats
-<div align="center">
-  ![Mofacchirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofacchirul&show_icons=true&theme=dark)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mofacchirul&show_icons=true&theme=dark" />
+</p>
+
 
 
 
