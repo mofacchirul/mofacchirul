@@ -9,11 +9,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"> 🌐 About me</h2>
 
 ###
 
-<p align="left">"I am Mofaccharul Hoque, an aspiring MERN stack developer, specialize in frontend technologies like React.js, Tailwind CSS, and DaisyUI while expanding my expertise in MongoDB, Express.js, and backend development to become a full-stack developer.</p>
+<p align="left">👋"I am Mofaccharul Hoque, an aspiring MERN stack developer, specialize in frontend technologies like React.js, Tailwind CSS, and DaisyUI while expanding my expertise in MongoDB, Express.js, and backend development to become a full-stack developer.</p>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Skill</h2>
+<h2 align="left"> 🛠 Skill</h2>
 
 ###
 
@@ -57,7 +57,7 @@
 
 
 
-<h1 align="left">Contack me</h1>
+<h1 align="left">📞 Contack me</h1>
 
 ###
 
