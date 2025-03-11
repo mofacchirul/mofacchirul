@@ -42,8 +42,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
-### [📊 GitHub Stats]
-![Mofacchirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofacchirul&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+<div align="center">
+  ![Mofacchirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofacchirul&show_icons=true&theme=dark)
+</div>
+
 
 
 <h1 align="left">Contack me</h1>
