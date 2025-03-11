@@ -44,7 +44,8 @@
 
 ###
 ![📊 GitHub Stats]
-(https://github-readme-stats.vercel.app/api?username=mofacchirul&show_icons=true&theme=dark)
+![Mofacchirul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofacchirul&show_icons=true&theme=dark)
+
 
 <h1 align="left">Contack me</h1>
 
